@@ -1,0 +1,5 @@
+#!/bin/tcsh -f
+set cp=$0:h/../classes
+set main=turtle.CCurve
+
+java -cp ${cp} ${main} $*
