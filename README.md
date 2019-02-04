@@ -1,1 +1,1 @@
-情報実験II Lisp
+情報実験II Lisp (privateからpublicへコピーしたもの)
